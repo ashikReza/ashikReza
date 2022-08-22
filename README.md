@@ -1,5 +1,5 @@
 <div align="right">
- <img src="https://miro.medium.com/max/1400/1*94Z17dA4rkLL5pOon2ZbCw.jpeg" alt="nextjs" width="40" height="40"/>
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
 
 </div>
 
