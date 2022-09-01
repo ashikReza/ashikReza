@@ -60,9 +60,6 @@
     <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a><br/>
   
-  <a href="https://www.java.com/en/">
-    <img height="35px" alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  </a>
   <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
     <img height="35px" alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a><br/></p>
