@@ -27,8 +27,12 @@
 
  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  
-<p align="center"><a href="https://www.nodejs.dev/">
-    <img height="35px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<p align="center">
+   <a  href="https://www.javascript.com/">
+    <img height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <a  href="https://www.typescriptlang.org/">
+    <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a><br/>
 
 <a href="https://reactnative.dev/">
@@ -53,11 +57,8 @@
   <a href="https://firebase.google.com/">
     <img height="35px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a><br/>
-  <a  href="https://www.javascript.com/">
-    <img height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-  <a  href="https://www.typescriptlang.org/">
-    <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <a href="https://www.nodejs.dev/">
+    <img height="35px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a><br/>
   
   <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
