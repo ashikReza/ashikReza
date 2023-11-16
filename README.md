@@ -17,9 +17,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on Full-Functional-MERN-Stack-LMS, Github Project
 
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently learning C, C++
 
 - 👯 I’m looking to collaborate Javascript Enthusiast 
 
