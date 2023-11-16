@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on Full-Functional-MERN-Stack-LMS, Github Project
 
-- 🌱 I’m currently learning C, C++
+- 🌱 I’m currently learning MERN
 
 - 👯 I’m looking to collaborate Javascript Enthusiast 
 
