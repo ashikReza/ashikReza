@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif">
+<!--  <img src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif"> -->
 <!--  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> -->
 </div>
 
