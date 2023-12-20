@@ -29,12 +29,10 @@ I'm Ashik Reza, an adept full-stack developer skilled in technologies like React
 ### Socials
 
 <p align="center">
-  <a href="https://discord.com/users/ashikreza" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/ashikreza" target="_blank" >
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord">
   </a>
-  <a href="https://www.github.com/Ashik044" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub">
-  </a>
+  
   <a href="https://www.linkedin.com/in/ashikReza/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn">
   </a>
