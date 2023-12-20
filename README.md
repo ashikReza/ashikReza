@@ -1,12 +1,11 @@
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif"> -->
-  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">
+<!--  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> -->
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ashik Reza
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashik Reza
 ==================================================================================================================================
 
-## Full Stack Web Developer
+Full stack web developer
 ------------------------
 
 I'm Ashik Reza, an adept full-stack developer skilled in technologies like React, Next.js, Node.js, and more. I specialize in the MERN stack and microservices architecture, with a strong track record in building high-performance web applications. My coding journey started post-high School, leading me to a coding boot camp, and I'm currently seeking a full-time software developer role. Beyond coding, I enjoy video games, movies, and continuous learning. I value collaboration and networking for personal and professional growth. If you're in search of a dynamic developer, I bring a commitment to learning, problem-solving, and a passion for innovative projects.
