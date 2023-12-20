@@ -1,6 +1,6 @@
 <div align="center">
-<!--  <img src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif"> -->
- <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">
+ <img src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif">
+<!--  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> -->
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashik Reza
