@@ -2,7 +2,7 @@
 <!--  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> -->
 </div>
 
-Welcome! ![](https://github.com/Ashik044/Ashik044/blob/main/hand.gif)I’m glad you’re checking out my GitHub profile
+Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I’m glad you’re checking out my GitHub profile
 ==================================================================================================================================
 
 Full stack web developer
