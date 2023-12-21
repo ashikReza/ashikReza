@@ -48,7 +48,7 @@ I'm Ashik Reza, an adept full-stack developer skilled in technologies like React
 
 ### Socials
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/ashikreza" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord">
   </a>
