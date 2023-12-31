@@ -11,7 +11,7 @@ I'm Ashik Reza, an adept full-stack developer skilled in technologies like React
 
 * 🌍  I'm based in Dhaka
 * 🖥️  See my portfolio at [ashik10.vercel.app](http://ashik10.vercel.app/)
-* ✉️  You can contact me at [here](https://ashik10.vercel.app/#contact)
+* ✉️  You can contact me at [this link](https://ashik10.vercel.app/#contact)
 * 🚀  I'm currently working on [ChatPDF](http://github.com/Ashik044/ChatPDF_A_Dynamic_Chat_Application)
 * 🧠  I'm learning C / C++, Python, JavaScript
 * 🤝  I'm open to collaborating on diverse projects that harness my full-stack development skills for innovative and impactful solutions.
