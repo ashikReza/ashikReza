@@ -45,7 +45,7 @@ I'm Ashik Reza, an adept full-stack developer skilled in technologies like React
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
-### Socials
+### Where to find me
 
 <p align="center">
   <a href="https://discord.com/users/ashikreza" target="_blank" rel="noopener noreferrer">
