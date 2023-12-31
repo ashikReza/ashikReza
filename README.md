@@ -1,5 +1,5 @@
 <div align="center">
-<!--  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> -->
+ <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> 
 </div>
 
 <h1>Welcome! <strong><img src="hello.gif" width="28px" alt="hi"></strong> I’m glad you’re checking out my GitHub profile</h1>
