@@ -2,7 +2,7 @@
  <img src="https://github.com/Ashik044/Ashik044/blob/main/assets/BG.gif"> 
 </div>
 
-<h1><b>Welcome!</b> <strong><img src="assets/hello.gif" width="28px" alt="hi"></strong> I’m glad you’re checking out my GitHub profile</h1>
+<b><h1>Welcome! <strong><img src="assets/hello.gif" width="28px" alt="hi"></strong> I’m glad you’re checking out my GitHub profile</h1></b>
 
 Full stack web developer
 ------------------------
