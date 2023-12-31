@@ -2,7 +2,7 @@
 <!--  <img src="https://github.com/Ashik044/Ashik044/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif"> -->
 </div>
 
-## Welcome! <img src="hello.gif" width="28px" alt="hi"> I’m glad you’re checking out my GitHub profile
+<h1>Hi there! <img src="hello.gif" width="28px" alt="hi"> Welcome to my GitHub profile! 👋</h1>
 
 Full stack web developer
 ------------------------
