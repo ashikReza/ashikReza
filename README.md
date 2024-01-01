@@ -4,7 +4,7 @@
 
 <h1>Welcome! <strong><img src="assets/hello.gif" width="28px" alt="hi"></strong> I’m glad you’re checking out my GitHub profile</h1>
 
-Full stack web developer
+Front End web developer
 ------------------------
 
 I'm Ashik Reza, an adept full-stack developer skilled in technologies like React, Next.js, Node.js, and more. I specialize in the MERN stack and microservices architecture, with a strong track record in building high-performance web applications. My coding journey started post-high School, leading me to a coding boot camp, and I'm currently seeking a full-time software developer role. Beyond coding, I enjoy video games, movies, and continuous learning. I value collaboration and networking for personal and professional growth. If you're in search of a dynamic developer, I bring a commitment to learning, problem-solving, and a passion for innovative projects.
