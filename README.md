@@ -7,7 +7,7 @@
 Front End web developer
 ------------------------
 
-I'm Ashik Reza, an adept full-stack developer skilled in technologies like React, Next.js, Node.js, and more. I specialize in the MERN stack and microservices architecture, with a strong track record in building high-performance web applications. My coding journey started post-high School, leading me to a coding boot camp, and I'm currently seeking a full-time software developer role. Beyond coding, I enjoy video games, movies, and continuous learning. I value collaboration and networking for personal and professional growth. If you're in search of a dynamic developer, I bring a commitment to learning, problem-solving, and a passion for innovative projects.
+Greetings, I'm Ashik, a front end developer who enjoys creating engaging and user-friendly web applications with React/Next JS. I also know some Python and Node.js, I use Python to automate my boring tasks, and Node.js to create back end services. I am always curious and eager to learn new technologies and follow the industry best practices to ensure that my code is clean, maintainable, and secure. Besides web development, I am also interested in competitive programming and problem solving, and I am currently honing my skills in C/C++. My coding journey started post-high School. Beyond coding, I enjoy video games, movies, and continuous learning. I value collaboration and networking for personal and professional growth. If you're in search of a dynamic developer, I bring a commitment to learning, problem-solving, and a passion for innovative projects.
 
 * 🌍  I'm based in Dhaka
 * 🖥️  See my portfolio at [ashik10.vercel.app](http://ashik10.vercel.app/)
