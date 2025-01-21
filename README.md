@@ -7,7 +7,13 @@
 Front End web developer
 ------------------------
 
-<p>Greetings, I'm Ashik, a front end developer who enjoys creating engaging and user-friendly web applications with React/Next JS. I also know some Python and Node.js, I use Python to automate my boring tasks, and Node.js to create back end services. I am always curious and eager to learn new technologies and follow the industry best practices to ensure that my code is clean, maintainable, and secure. Besides web development, I am also interested in competitive programming and problem solving, and I am currently honing my skills in C/C++. My coding journey started post-high School. Beyond coding, I enjoy video games, movies, and continuous learning. I value collaboration and networking for personal and professional growth. If you're in search of a dynamic developer, I bring a commitment to learning, problem-solving, and a passion for innovative projects.</p>
+<p>I’m a passionate programmer eager to solve complex problems and improve my skills in C/C++. I enjoy tackling algorithmic challenges, optimizing solutions, and learning from the competitive programming community. My goal is to become a good problem-solver and contribute to innovative projects that require analytical thinking and technical expertise.
+
+Beyond competitive programming, I have a strong background in front-end development. I specialize in building engaging and user-friendly web applications using React/Next.js, and I follow industry best practices to write clean, maintainable, and secure code. I’m also familiar with Redux, Node.js, and RESTful APIs, which allow me to create robust and scalable web solutions.
+
+Additionally, I have knowledge of Python and a curiosity about automation and machine learning. I enjoy exploring how Python can be used to solve real-world problems and enhance productivity through innovative solutions. 
+
+I’m always curious and excited to learn new technologies, collaborate with like-minded individuals, and take on challenges that make a positive impact. Let’s connect and exchange ideas!</p>
 
 * 🌍  I'm based in Dhaka
 * 🖥️  See my portfolio at [ashik10.vercel.app](http://ashik10.vercel.app/)
