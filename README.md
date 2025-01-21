@@ -4,7 +4,7 @@
 
 <h1>Welcome! <strong><img src="assets/hello.gif" width="28px" alt="hi"></strong> I’m glad you’re checking out my GitHub profile</h1>
 
-Front End web developer
+Seeking Exciting Opportunities
 ------------------------
 
 <p>I’m a passionate programmer eager to solve complex problems and improve my skills in C/C++. I enjoy tackling algorithmic challenges, optimizing solutions, and learning from the competitive programming community. My goal is to become a good problem-solver and contribute to innovative projects that require analytical thinking and technical expertise.
